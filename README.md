@@ -11,13 +11,13 @@ This is an app created with expo react-native.
 
 ### Screenshots in app
 
-<img src="https://github.com/fatihkayan20/TravelHotelApp/blob/main/imagesForGithub/1.png" />
+<img src="https://github.com/fatihkayan20/TravelHotelApp/blob/main/imagesForGithub/1.png" width=300 />
 
-<img src="https://github.com/fatihkayan20/TravelHotelApp/blob/main/imagesForGithub/2.png" />
+<img src="https://github.com/fatihkayan20/TravelHotelApp/blob/main/imagesForGithub/2.png" width=300/>
 
-<img src="https://github.com/fatihkayan20/TravelHotelApp/blob/main/imagesForGithub/3.png" />
+<img src="https://github.com/fatihkayan20/TravelHotelApp/blob/main/imagesForGithub/3.png" width=300/>
 
-<img src="https://github.com/fatihkayan20/TravelHotelApp/blob/main/imagesForGithub/4.png" />
+<img src="https://github.com/fatihkayan20/TravelHotelApp/blob/main/imagesForGithub/4.png" width=300/>
 
-<img src="https://github.com/fatihkayan20/TravelHotelApp/blob/main/imagesForGithub/5.png" />
-<img src="https://github.com/fatihkayan20/TravelHotelApp/blob/main/imagesForGithub/6.png" />
+<img src="https://github.com/fatihkayan20/TravelHotelApp/blob/main/imagesForGithub/5.png" width=300/>
+<img src="https://github.com/fatihkayan20/TravelHotelApp/blob/main/imagesForGithub/6.png" width=300/>
